@@ -1,0 +1,7 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "spfx-angular-webpartproperties",
+    "libraryId": "7bd5ee66-19b2-44d6-8216-5fc76eb35113",
+    "framework": "none"
+  }
+}

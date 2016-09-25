@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-angular-webpartproperties-client-side-solution",
+    "id": "7bd5ee66-19b2-44d6-8216-5fc76eb35113",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-angular-webpartproperties.spapp"
+  }
+}
